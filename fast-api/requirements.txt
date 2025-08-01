@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydantic
+scikit-learn # Or whatever ML library your model uses
+numpy
